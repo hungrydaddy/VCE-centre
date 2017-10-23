@@ -1,0 +1,38 @@
+{
+    "Steve": {
+        "name": "Steve",
+        "title": "Tutor of VCE methods & Physics",
+        "intro": "Leading tutor of VCE maths Methods and Physics, graduated from the University of Melbourne, Biomedicine in 2010, and has a Ph.D. in philosophy. Years of tutoring experience in Melbourne and Swinbourne Uni, 10 years Maths Methods teaching experience, many students of his obtained full marks. Having a sense of humour, he is definitely an excellent teacher loved by many students.",
+        "imgURL": "steve.jpg"
+    },
+    "James": {
+        "name": "James",
+        "title": "Tutor of VCE specialists",
+        "intro": "Leading tutor of VCE specialist maths, 9 years of teaching experience, graduated from the Imperial College of Technology, Master of Electronic Engineering. He brought out a number of students who gained high marks. He is friendly and down to the earth, cordial to help students solve Maths related problems, more willing to share the ideas, also well received by the audience.",
+        "imgURL": "james.jpg"
+    },
+    "Mr.Chen": {
+        "name": "Mr.Chen",
+        "title": "Tutor of VCE EAL & English",
+        "intro": "Leading tutor of VCE EAL & English, more than 30 years of teaching experience, entitled \"King of tutoring\". In 2016, he taught two students who got full marks for EAL. Familiar with Asian students' learning habits, and has very good English expression skills.",
+        "imgURL": "mrChen.png"
+    },
+    "Esther": {
+        "name": "Esther",
+        "title": "Tutor of VCE EAL & English",
+        "intro": "Leading tutor of VCE EAL & English, ATAR total score 99.85, full score on English, graduated from Fintona Girls' school, accepted by the University of Melbourne, English major. VCE Australian Student Prize, Donald Mackay History Prize and Dean's Honors list etc. Years of teaching experience, and served as editor of the University of Melbourne Women's Department magazine. Esther is friendly, humorous in class, and love to study languages, easy to get along well with students, tend to help students to learn in a rather relaxed environment.",
+        "imgURL": "esther.png"
+    },
+    "Rachel": {
+        "name": "Rachel",
+        "title": "Tutor of VCE EAL & English",
+        "intro": "Leading tutor of VCE EAL & English, ATAR score 99.35, EAL 48, graduated from Mentone Girls’ Secondary College. Student of The University of Melbourne, Bachelor of Biomedicine. Achieved Tapley’s Family Award on subjects of Maths, EAL and Chinese etc. Rachel insist her innovative way of teaching, ensuring her students to master English quickly.",
+        "imgURL": "rachel.jpg"
+    },
+    "Alicia": {
+        "name": "Alicia",
+        "title": "Tutor of VCE Chemistry",
+        "intro": "Leading tutor of VCE Chemistry, ATAR total score of 99.65, 44 on Chemistry. Graduated from Camberwell Girls Grammar. In 2016, she graduated from the University of Melbourne, Bachelor of Biomedicine. Now studying at the Monash University majoring Pharmacy. Won the Australian National Chemistry Quiz - High High Distinction, Australian Maths Competition - High Distinction and loads of other awards. Alicia advocates individual teaching, she targets students' goals according to their different basis, rapid improvement of student were shown. She ensures that learning chemistry has become a lot of fun. Alicia is responsible, helpful, she has a reputation in or out of Uni, loved by a lot of students.",
+        "imgURL": "alicia.png"
+    }
+}

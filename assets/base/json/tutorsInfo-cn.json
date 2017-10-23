@@ -1,0 +1,38 @@
+{
+    "Steve": {
+        "name": "Steve",
+        "title": "中数&物理老师",
+        "intro": "VCE maths Methods 和Physics 的主讲老师， 2010年毕业于墨尔本大学的Biomedicine，并拥有philosophy的博士学位。在墨大及Swinburne都有多年tutor经验，10年的Maths Methods教学经验，并带出多名满分学生。讲师风格幽默诙谐，是一名受众多学生爱戴的优秀教师。",
+        "imgURL": "steve.jpg"
+    },
+    "James": {
+        "name": "James",
+        "title": "高数老师",
+        "intro": "VCE specialist maths 的主讲老师， 9年的高数数学经验，毕业于英国帝国理工大学 Master of Elevtronic Engineering带出多名高分学生。 讲师风格平易近人，喜欢帮助学生解决数学上的难题，更愿意分享做题的思路，是一名受众多学生欢迎的好老师。",
+        "imgURL": "james.jpg"
+    },
+    "Mr.Chen": {
+        "name": "Mr.Chen",
+        "title": "英语老师",
+        "intro": "VCE EAL & English 的主讲老师，超过30年的教学经验，是本社的英语补习天王，并在2016年教出两名EAL满分的学生。讲解课文重点清晰，熟悉亚洲学生的学习习惯，并拥有极优秀的英文表达能力。",
+        "imgURL": "mrChen.png"
+    },
+    "Esther": {
+        "name": "Esther",
+        "title": "英语老师",
+        "intro": "VCE EAL & English 的主讲老师，ATAR总分99.85，英语50满分的成绩毕业于Fintona Girls’ school，并被墨尔本大学的英语系录取。获奖无数，曾获VCE Australian Student Prize, Donald Mackay History Prize 和 Dean’s Honours list等。拥有多年的教学经验，并担任墨尔本大学 Women’s Department magazine的编辑。Esther亲和力强，上课幽默风趣，并热爱学习语言，很容易与学生打成一片，有助于学生在轻松的环境下学习。",
+        "imgURL": "esther.png"
+    },
+    "Rachel": {
+        "name": "Rachel",
+        "title": "英语老师",
+        "intro": "VCE EAL & English 的主讲老师，ATAR总分99.35，以EAL 48分的高分毕业于 Mentone Girls’Secondary College ，现就读于墨尔本大学生物医学系(Bachelor of Biomedicine)，曾在数学、英语和中文等科目上，获多项Tapley’s Family Award。Rachel老师坚持开发新事物新思路，并不断完善现有的教学内容，来确保学生掌握英语的能力。",
+        "imgURL": "rachel.jpg"
+    },
+    "Alicia": {
+        "name": "Alicia",
+        "title": "化学老师",
+        "intro": "化学的主讲老师，ATAR总分99.65，化学raw score 44分毕业于Camberwell Girls Grammar，2016年毕业于墨尔本大学生物医学系，现就读于莫纳什大学药学系。曾获Australian National Chemistry Quiz - High High Distinction, Australian Maths Competition - High Distinction等奖项。从教三年来，100%的学生在高考中考取第一志愿；辅导的学生曾在高考中取得99分以上的好成绩，考取墨尔本大学生物医学系。教学上，Alicia老师主张因材施教，根据学生的不同基础进行有针对性的辅导，快速提高学生的学习及应试能力，让学习化学成为一件轻松有趣的事情。Alicia工作认真负责，乐于助人，在校内外已有一定声誉，深受同学们好评。",
+        "imgURL": "alicia.png"
+    }
+}
